@@ -166,9 +166,12 @@ cython_debug/
 
 
 
-all_six_datasets.zip
+raw_data/*
+
 datasets_former_papers/*
 !datasets_former_papers/.gitkeep
+
+Pecan_street_data/*
 what_to_do.txt
 
 
