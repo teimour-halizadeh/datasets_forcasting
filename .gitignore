@@ -172,7 +172,7 @@ datasets_former_papers/*
 !datasets_former_papers/.gitkeep
 
 Pecan_street_data/*
-Pecan_street_data/.gitkeep
+!Pecan_street_data/.gitkeep
 what_to_do.txt
 
 
