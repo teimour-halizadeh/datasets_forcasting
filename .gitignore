@@ -174,6 +174,8 @@ datasets_former_papers/*
 london_dataset/*
 !london_dataset/.gitkeep
 
+london_dataset.zip
+
 pecan_street_data/*
 !pecan_street_data/.gitkeep
 
